@@ -58,7 +58,7 @@ I love building things that live on the internet — whether it's 3D interactive
 
 ## 🚀 Featured Project
 
-### [🧠 INTELLIQ](https://github.com/Balamurugan0113/INTELLIQ)
+### [🧠 INTELLIQ]([https://github.com/Balamurugan0113/INTELLIQ](https://intelliq-np0a.onrender.com/))
 
 > Official AI & Data Science Association website — INFO Institute of Engineering
 
