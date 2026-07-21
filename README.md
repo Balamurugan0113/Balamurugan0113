@@ -1,16 +1,18 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=01CEFC&center=true&vCenter=true&random=false&width=500&height=70&lines=Hey+%F0%9F%91%8B+I'm+Balamurugan;Full-Stack+Developer;AI+%26+DS+Student;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=1500&pause=99999&color=FCE728&center=true&vCenter=true&random=false&width=250&height=50&lines=Hey+%F0%9F%91%8B+I'm" alt="Hey" />
+  <br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=48&duration=2000&pause=99999&color=FC4C28&center=true&vCenter=true&random=false&width=550&height=70&lines=BALAMURUGAN+C" alt="Name" />
+  <br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=800&color=01CEFC&center=true&vCenter=true&random=false&width=450&height=45&lines=Full-Stack+Developer;AI+%26+DS+Enthusiast;Open+Source+Contributor;UI%2F3D+Designer" alt="Roles" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/AI_%26_Data_Science-Student-01CEFC?style=for-the-badge" alt="AI & DS"/>
-  <img src="https://img.shields.io/badge/Full_Stack-Developer-FF3DE8?style=for-the-badge" alt="Full Stack"/>
-  <img src="https://img.shields.io/badge/Open_Source-Contributor-37FF00?style=for-the-badge" alt="Open Source"/>
+  <img src="https://img.shields.io/badge/AI_%26_Data_Science-Student-01CEFC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Full_Stack-Developer-FF3DE8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open_Source-Contributor-37FF00?style=for-the-badge" />
 </div>
-
-<br/>
 
 ---
 
@@ -29,8 +31,6 @@ I love building things that live on the internet — whether it's 3D interactive
 ---
 
 ## 🛠️ Tech Stack
-
-<div align="center">
 
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -54,27 +54,6 @@ I love building things that live on the internet — whether it's 3D interactive
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-</div>
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Balamurugan0113&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balamurugan0113&layout=compact&langs_count=6&theme=radical&hide_border=true" alt="Top Languages"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Balamurugan0113&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="95%"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Balamurugan0113&theme=radical&no-frame=true&no-bg=true&row=2&column=3" alt="Trophies"/>
-</div>
-
 ---
 
 ## 🚀 Featured Project
@@ -83,40 +62,25 @@ I love building things that live on the internet — whether it's 3D interactive
 
 > Official AI & Data Science Association website — INFO Institute of Engineering
 
-**Stack:** React · FastAPI · PostgreSQL · Three.js · Docker · GSAP
+Stack: React · FastAPI · PostgreSQL · Three.js · Docker · GSAP
 
-A full-stack SPA with 3D hero animations, dynamic events/members API, AI chatbot, fluid cursor trails, UPI payments, and cinematic video backgrounds — built for the INTELLIQ community.
-
-<p>
-  <img src="https://img.shields.io/badge/React-18.3-61DAFB?logo=react" alt="React"/>
-  <img src="https://img.shields.io/badge/FastAPI-0.115-009688?logo=fastapi" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-16-4169E1?logo=postgresql" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Docker-Compose-2496ED?logo=docker" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Render-Deployed-46E3B7?logo=render" alt="Render"/>
-</p>
+![React](https://img.shields.io/badge/React-18.3-61DAFB?logo=react)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.115-009688?logo=fastapi)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-4169E1?logo=postgresql)
+![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?logo=docker)
 
 ---
 
 ## 📫 Let's Connect
 
-<div align="center">
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/balamurugan-c-5507b82a3)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Balamurugan0113)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](tharanishbalaa@gmail.com)
-
-</div>
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tharanishbalaa@gmail.com)
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Balamurugan0113&color=01CEFC&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Balamurugan0113&color=01CEFC&style=flat-square&label=Profile+Views" />
   <br/><br/>
-  
-  <sub>⚡ *Innovation Through Unity*</sub>
-
-  <br/>
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:01CEFC,100:FF3DE8&height=100&section=footer" alt="Wave"/>
-</div>
+  ⚡ <em>Innovation Through Unity</em>
+</p>
