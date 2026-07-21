@@ -22,7 +22,7 @@ I'm a passionate **AI & Data Science** student at **INFO Institute of Engineerin
 
 I love building things that live on the internet — whether it's 3D interactive websites, REST APIs, or ML-powered apps. I believe in **learning by building** and contributing to open source.
 
-- 🔭 **Current project:** [INTELLIQ](https://github.com/Balamurugan0113/INTELLIQ) — Association website with 3D visuals + full-stack backend
+- 🔭 **Current project:** [INTELLIQ](https://intelliq-np0a.onrender.com) — Association website with 3D visuals + full-stack backend
 - 🌱 **Learning:** Advanced ML, System Design, DevOps
 - 👯 **Open to:** Collaborating on AI/Web projects
 - 🎯 **Goal:** Build tech that makes a difference
@@ -58,7 +58,7 @@ I love building things that live on the internet — whether it's 3D interactive
 
 ## 🚀 Featured Project
 
-### [🧠 INTELLIQ]([https://github.com/Balamurugan0113/INTELLIQ](https://intelliq-np0a.onrender.com/))
+### [🧠 INTELLIQ]([https://github.com/Balamurugan0113/INTELLIQ])
 
 > Official AI & Data Science Association website — INFO Institute of Engineering
 
