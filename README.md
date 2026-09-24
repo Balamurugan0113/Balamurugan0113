@@ -22,7 +22,7 @@ I'm a passionate **AI & Data Science** student at **INFO Institute of Engineerin
 
 I love building things that live on the internet — whether it's 3D interactive websites, REST APIs, or ML-powered apps. I believe in **learning by building** and contributing to open source.
 
-- 🔭 **Current project:** [INTELLIQ](https://inteliiq.co.in) — Association website with 3D visuals + full-stack backend
+- 🔭 **Current project:** [INTELLIQ](https://intelliq.co.in) — Association website with 3D visuals + full-stack backend
 - 🌱 **Learning:** Advanced ML, System Design, DevOps
 - 👯 **Open to:** Collaborating on AI/Web projects
 - 🎯 **Goal:** Build tech that makes a difference
